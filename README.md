@@ -1,2 +1,2 @@
 # Cifar-10NN
-Simple machine learining algorithm
+VERY Simple machine learining algorithm using Python and Tensorflow.
